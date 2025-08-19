@@ -21,3 +21,5 @@ while True:
   for ball in balls:
     ball.pos.y=ball.pos.y-time*5
     
+
+print("sss")
